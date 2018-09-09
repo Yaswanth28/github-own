@@ -8,6 +8,7 @@ public class Test {
 		for(String na:nam)
 		{
 			System.out.println("value-->"+na);
+			System.out.println(" ");
 		}
 	}
 
